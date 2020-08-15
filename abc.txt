@@ -1,3 +1,7 @@
 aseem
 VK Bhala is my favorite teacher
+<<<<<<< HEAD
 aseem
+=======
+Gurman
+>>>>>>> dc102ee8cdc9ebba721a8978b5d58b596bfa6913
